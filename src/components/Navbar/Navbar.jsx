@@ -9,7 +9,7 @@ const Navbar = () => {
           
           <div className="flex items-center gap-4 text-white font-bold">
             <img src={Logo} alt="Logo" className='w-10' />
-            <span>TCJ-SPACE</span>
+            <span>MOON</span>
           </div>
 
           <div className="text-white hidden md:block">
