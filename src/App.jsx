@@ -19,7 +19,7 @@ const App = () => {
   });
 
   return (
-    <div className="relative">
+    <div className="relative overflow-x-hidden">
       {/* Video as background */}
       <div className="relative w-full min-h-screen overflow-hidden" id="home">
         <div className="absolute inset-0 z-[-2] pointer-events-none">
