@@ -53,9 +53,9 @@ const App = () => {
       <StarsBackground />
 
       {/* Other sections with IDs */}
-      <div id="about"><Services /></div>
-      <div id="exploration"><Banner /> <Banner2 /></div>
-      <div id="discoveries"><Footer /></div>
+      <div ><Services /></div>
+      <div ><Banner /> <Banner2 /></div>
+      <div ><Footer /></div>
     </div>
   );
 }
