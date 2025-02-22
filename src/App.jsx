@@ -60,7 +60,7 @@ const App = () => {
       {/* Welcome Message */}
       {showWelcome && (
         <div className="fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-4xl text-white text-shadow-lg animate-fadeInOut z-50">
-          <h1> World of Discovery!</h1>
+          <h1> Journey of Discovery!</h1>
         </div>
       )}
 
